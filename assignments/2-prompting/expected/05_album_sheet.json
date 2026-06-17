@@ -35,7 +35,7 @@
   {
     "league": "Premier League",
     "team": "Arsenal",
-    "name": "Gabriel Magalh\u00e3es",
+    "name": "Gabriel Magalhães",
     "position": "CB",
     "number": 6,
     "age": 26,
@@ -79,7 +79,7 @@
   {
     "league": "Premier League",
     "team": "Arsenal",
-    "name": "Martin \u00d8degaard",
+    "name": "Martin Ødegaard",
     "position": "CAM",
     "number": 8,
     "age": 26,
@@ -134,7 +134,7 @@
   {
     "league": "Premier League",
     "team": "Arsenal",
-    "name": "Jurri\u00ebn Timber",
+    "name": "Jurriën Timber",
     "position": "RB",
     "number": 12,
     "age": 23,
@@ -167,7 +167,7 @@
   {
     "league": "La Liga",
     "team": "FC Barcelona",
-    "name": "Marc-Andr\u00e9 ter Stegen",
+    "name": "Marc-André ter Stegen",
     "position": "GK",
     "number": 1,
     "age": 32,
@@ -178,7 +178,7 @@
   {
     "league": "La Liga",
     "team": "FC Barcelona",
-    "name": "Jules Kound\u00e9",
+    "name": "Jules Koundé",
     "position": "RB",
     "number": 23,
     "age": 26,
@@ -189,7 +189,7 @@
   {
     "league": "La Liga",
     "team": "FC Barcelona",
-    "name": "Pau Cubars\u00ed",
+    "name": "Pau Cubarsí",
     "position": "CB",
     "number": 2,
     "age": 17,
@@ -200,7 +200,7 @@
   {
     "league": "La Liga",
     "team": "FC Barcelona",
-    "name": "I\u00f1igo Mart\u00ednez",
+    "name": "Iñigo Martínez",
     "position": "CB",
     "number": 5,
     "age": 33,
@@ -222,7 +222,7 @@
   {
     "league": "La Liga",
     "team": "FC Barcelona",
-    "name": "Marc Casad\u00f3",
+    "name": "Marc Casadó",
     "position": "CDM",
     "number": 17,
     "age": 21,
@@ -299,7 +299,7 @@
   {
     "league": "La Liga",
     "team": "FC Barcelona",
-    "name": "Ferm\u00edn L\u00f3pez",
+    "name": "Fermín López",
     "position": "CM",
     "number": 16,
     "age": 21,
@@ -343,7 +343,7 @@
   {
     "league": "La Liga",
     "team": "Real Madrid",
-    "name": "Antonio R\u00fcdiger",
+    "name": "Antonio Rüdiger",
     "position": "CB",
     "number": 22,
     "age": 31,
@@ -354,7 +354,7 @@
   {
     "league": "La Liga",
     "team": "Real Madrid",
-    "name": "\u00c9der Milit\u00e3o",
+    "name": "Éder Militão",
     "position": "CB",
     "number": 3,
     "age": 26,
@@ -420,7 +420,7 @@
   {
     "league": "La Liga",
     "team": "Real Madrid",
-    "name": "Vin\u00edcius J\u00fanior",
+    "name": "Vinícius Júnior",
     "position": "LW",
     "number": 7,
     "age": 24,
@@ -431,7 +431,7 @@
   {
     "league": "La Liga",
     "team": "Real Madrid",
-    "name": "Kylian Mbapp\u00e9",
+    "name": "Kylian Mbappé",
     "position": "ST",
     "number": 9,
     "age": 26,
@@ -442,7 +442,7 @@
   {
     "league": "La Liga",
     "team": "Real Madrid",
-    "name": "Luka Modri\u0107",
+    "name": "Luka Modrić",
     "position": "CM",
     "number": 10,
     "age": 39,
@@ -453,7 +453,7 @@
   {
     "league": "La Liga",
     "team": "Real Madrid",
-    "name": "Aur\u00e9lien Tchouam\u00e9ni",
+    "name": "Aurélien Tchouaméni",
     "position": "CDM",
     "number": 14,
     "age": 24,
@@ -464,7 +464,7 @@
   {
     "league": "La Liga",
     "team": "Real Madrid",
-    "name": "Lucas V\u00e1zquez",
+    "name": "Lucas Vázquez",
     "position": "RB",
     "number": 17,
     "age": 33,
